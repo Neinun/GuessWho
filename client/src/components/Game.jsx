@@ -196,13 +196,8 @@ const Game = ({ socket, roomId, roomData, playerName, gameState, gameOverData })
             isSubmittingGuess={isSubmittingGuess}
             onGuess={(charId) => {
               if (isMyTurn && !isSubmittingGuess) {
-                const char = celebrities.find(c => c.id === charId);
-                if (window.confirm(`Are you sure you want to guess ${char.name}? If you are wrong, your turn will pass to the opponent.`)) {
-                  setIsSubmittingGuess(true);
-                  socket.emit('makeGuess', { roomId, characterId: charId });
-                }
-              } else if (!isMyTurn) {
-                alert("It's not your turn!");
+                setIsSubmittingGuess(true);
+                socket.emit('makeGuess', { roomId, characterId: charId });
               }
             }}
           />
