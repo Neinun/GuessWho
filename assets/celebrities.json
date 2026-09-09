@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "name": "Leonardo DiCaprio",
+    "image": "celebrities/leonardo_dicaprio.webp"
+  },
+  {
+    "id": 2,
+    "name": "Brad Pitt",
+    "image": "celebrities/brad_pitt.webp"
+  },
+  {
+    "id": 3,
+    "name": "Tom Cruise",
+    "image": "celebrities/tom_cruise.webp"
+  },
+  {
+    "id": 4,
+    "name": "Will Smith",
+    "image": "celebrities/will_smith.webp"
+  },
+  {
+    "id": 5,
+    "name": "Robert Downey Jr.",
+    "image": "celebrities/robert_downey_jr..webp"
+  },
+  {
+    "id": 6,
+    "name": "Chris Hemsworth",
+    "image": "celebrities/chris_hemsworth.webp"
+  },
+  {
+    "id": 7,
+    "name": "Scarlett Johansson",
+    "image": "celebrities/scarlett_johansson.webp"
+  },
+  {
+    "id": 8,
+    "name": "Jennifer Lawrence",
+    "image": "celebrities/jennifer_lawrence.webp"
+  },
+  {
+    "id": 9,
+    "name": "Angelina Jolie",
+    "image": "celebrities/angelina_jolie.webp"
+  },
+  {
+    "id": 10,
+    "name": "Tom Hanks",
+    "image": "celebrities/tom_hanks.webp"
+  },
+  {
+    "id": 11,
+    "name": "Denzel Washington",
+    "image": "celebrities/denzel_washington.webp"
+  },
+  {
+    "id": 12,
+    "name": "Morgan Freeman",
+    "image": "celebrities/morgan_freeman.webp"
+  },
+  {
+    "id": 13,
+    "name": "Samuel L. Jackson",
+    "image": "celebrities/samuel_l._jackson.webp"
+  },
+  {
+    "id": 14,
+    "name": "Keanu Reeves",
+    "image": "celebrities/keanu_reeves.webp"
+  },
+  {
+    "id": 15,
+    "name": "Hugh Jackman",
+    "image": "celebrities/hugh_jackman.webp"
+  },
+  {
+    "id": 16,
+    "name": "Ryan Reynolds",
+    "image": "celebrities/ryan_reynolds.webp"
+  },
+  {
+    "id": 17,
+    "name": "Dwayne Johnson",
+    "image": "celebrities/dwayne_johnson.webp"
+  },
+  {
+    "id": 18,
+    "name": "Jackie Chan",
+    "image": "celebrities/jackie_chan.webp"
+  },
+  {
+    "id": 19,
+    "name": "Arnold Schwarzenegger",
+    "image": "celebrities/arnold_schwarzenegger.webp"
+  },
+  {
+    "id": 20,
+    "name": "Bruce Willis",
+    "image": "celebrities/bruce_willis.webp"
+  },
+  {
+    "id": 21,
+    "name": "Matt Damon",
+    "image": "celebrities/matt_damon.webp"
+  },
+  {
+    "id": 22,
+    "name": "Ben Affleck",
+    "image": "celebrities/ben_affleck.webp"
+  },
+  {
+    "id": 23,
+    "name": "George Clooney",
+    "image": "celebrities/george_clooney.webp"
+  },
+  {
+    "id": 24,
+    "name": "Harrison Ford",
+    "image": "celebrities/harrison_ford.webp"
+  },
+  {
+    "id": 25,
+    "name": "Al Pacino",
+    "image": "celebrities/al_pacino.webp"
+  },
+  {
+    "id": 26,
+    "name": "Robert De Niro",
+    "image": "celebrities/robert_de_niro.webp"
+  },
+  {
+    "id": 27,
+    "name": "Clint Eastwood",
+    "image": "celebrities/clint_eastwood.webp"
+  },
+  {
+    "id": 28,
+    "name": "Meryl Streep",
+    "image": "celebrities/meryl_streep.webp"
+  },
+  {
+    "id": 29,
+    "name": "Julia Roberts",
+    "image": "celebrities/julia_roberts.webp"
+  },
+  {
+    "id": 30,
+    "name": "Sandra Bullock",
+    "image": "celebrities/sandra_bullock.webp"
+  },
+  {
+    "id": 31,
+    "name": "Nicole Kidman",
+    "image": "celebrities/nicole_kidman.webp"
+  },
+  {
+    "id": 32,
+    "name": "Natalie Portman",
+    "image": "celebrities/natalie_portman.webp"
+  },
+  {
+    "id": 33,
+    "name": "Emma Stone",
+    "image": "celebrities/emma_stone.webp"
+  },
+  {
+    "id": 34,
+    "name": "Anne Hathaway",
+    "image": "celebrities/anne_hathaway.webp"
+  },
+  {
+    "id": 35,
+    "name": "Charlize Theron",
+    "image": "celebrities/charlize_theron.webp"
+  },
+  {
+    "id": 36,
+    "name": "Margot Robbie",
+    "image": "celebrities/margot_robbie.webp"
+  },
+  {
+    "id": 37,
+    "name": "Gal Gadot",
+    "image": "celebrities/gal_gadot.webp"
+  },
+  {
+    "id": 38,
+    "name": "Taylor Swift",
+    "image": "celebrities/taylor_swift.webp"
+  },
+  {
+    "id": 39,
+    "name": "Rihanna",
+    "image": "celebrities/rihanna.webp"
+  },
+  {
+    "id": 40,
+    "name": "Lady Gaga",
+    "image": "celebrities/lady_gaga.webp"
+  },
+  {
+    "id": 41,
+    "name": "Ariana Grande",
+    "image": "celebrities/ariana_grande.webp"
+  },
+  {
+    "id": 42,
+    "name": "Selena Gomez",
+    "image": "celebrities/selena_gomez.webp"
+  },
+  {
+    "id": 43,
+    "name": "Katy Perry",
+    "image": "celebrities/katy_perry.webp"
+  },
+  {
+    "id": 44,
+    "name": "Justin Bieber",
+    "image": "celebrities/justin_bieber.webp"
+  },
+  {
+    "id": 45,
+    "name": "Ed Sheeran",
+    "image": "celebrities/ed_sheeran.webp"
+  }
+]
